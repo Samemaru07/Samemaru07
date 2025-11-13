@@ -1,5 +1,5 @@
 <!-- 🖼️ ヘッダー画像 -->
-<! --<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/user-attachments/assets/9944e6a4-2e8c-4ac6-80bd-71abbfe7b05d" width="420" style="border-radius: 12px;" />
 </p>
 <p align="center">
