@@ -21,10 +21,10 @@
 ---
 
 ### 📘 Currently Learning
-- <strong>Lua</strong> / Neovim plugin development  
+- <strong>Lua</strong> / Neovim Fully-Customizable
 - <strong>Git & GitHub</strong> workflow  
 - <strong>Linux</strong> / Command line operations  
-- <strong>flutter</strong> / app development
+- <strong>flutter</strong> / App development
 - <strong>aws</strong> / cloud system & Infrastracture
 - <strong>Docker</strong>
 - <strong>Golang</strong>
