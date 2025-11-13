@@ -11,7 +11,7 @@
 
 ### 💻 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,lua,html,css,js,ts,git,neovim,go,linux,postgres,pytorch,latex,md,nextjs,powershellreact,raspberrypi,ubuntu&perline=5" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,lua,html,css,js,ts,git,neovim,go,linux,postgres,pytorch,latex,md,nextjs,powershell,react,raspberrypi,ubuntu&perline=5" />
 </p>
 
 ---
