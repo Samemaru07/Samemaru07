@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/" width="100" style="border-radius: 50%;" />
+  <img src="https://github.com/user-attachments/assets/9944e6a4-2e8c-4ac6-80bd-71abbfe7b05d" width="100" style="border-radius: 50%;" />
 </p>
 
 <h2 align="center">さめまる 🦈</h2>
