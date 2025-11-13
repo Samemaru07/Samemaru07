@@ -21,13 +21,14 @@
 ---
 
 ### 📘 Currently Learning
-- Lua / Neovim plugin development  
-- Git & GitHub workflow  
-- Linux / Command line operations  
-- flutter / app development
-- aws / cloud system & Infrastracture
-- Golang
-- Java
+- <strong>Lua</strong> / Neovim plugin development  
+- <strong>Git & GitHub</strong> workflow  
+- <strong>Linux</strong> / Command line operations  
+- <strong>flutter</strong> / app development
+- <strong>aws</strong> / cloud system & Infrastracture
+- <strong>Docker</strong>
+- <strong>Golang</strong>
+- <strong>Java</strong>
 ...
 ---
 
