@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/さめまる.png" width="100" style="border-radius: 50%;" />
+  <img src="https://github.com/" width="100" style="border-radius: 50%;" />
 </p>
 
 <h2 align="center">さめまる 🦈</h2>
@@ -30,9 +30,9 @@
 ### 📂 Featured Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| [AI](https://github.com/Samemaru07/CNN_AI-Jikken2) | 自作画像切り抜きAI | Python / Pytorch / HTML |
-| [Web](https://github.com/Samemaru07/seichi-diary_pro3-db-2Q) | 聖地巡礼日記サイト | Next.js / Larave / AWS |
-| [nvim](https://github.com/Samemaru07/Neovim-setup_WSL2) | Neovim セットアップ | Lua / Lazy.nvim |
+| [自作AI](https://github.com/Samemaru07/CNN_AI-Jikken2) | CNN / 画像 | Python / Pytorch / HTML |
+| [Webサイト](https://github.com/Samemaru07/seichi-diary_pro3-db-2Q) | 聖地巡礼日記サイト | Next.js / Larave / AWS |
+| [Neovim](https://github.com/Samemaru07/Neovim-setup_WSL2) | Neovim セットアップ | Lua / Lazy.nvim |
 
 ---
 
