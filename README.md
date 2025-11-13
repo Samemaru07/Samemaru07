@@ -8,7 +8,7 @@
 
 <h2 align="center">さめまる 🦈</h2>
 <p align="center">
-  高専生 / 18歳 / Neovim / Ubuntu(WSL) / ガンプラ・アニメ大好き
+  高専生 / 18歳 / Neovim / Ubuntu(WSL) / プラモ・アニメ大好き
 </p>
 
 ---
