@@ -7,7 +7,7 @@
 <p align="center"> MODEROID ファフナー・マーク アレス</p>
 
 <h2 align="center">さめまる 🦈</h2>
-<img align="center" src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=さめまる%20render&fontSize=90" />
+<img align="center" src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=さめまる&fontSize=90" />
 <p align="center">
   高専生 / 18歳 / Neovim / Ubuntu(WSL) / プラモ・アニメ大好き
 </p>
