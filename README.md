@@ -7,7 +7,7 @@
 <p align="center"> MODEROID ファフナー・マーク アレス</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:9be2e8,100:87CEFA&height=300&section=header&text=さめまる&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:9be2e8,100:87CEFA&height=300&section=header&text=さめまる🦈&fontSize=90" />
 </p>
 
 <p align="center">
