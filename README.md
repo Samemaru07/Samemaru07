@@ -2,13 +2,13 @@
   <img src="https://github.com/user-attachments/assets/9944e6a4-2e8c-4ac6-80bd-71abbfe7b05d" width="500" style="border-radius: 50%;" />
 </p>
 
-<p align="center">
-  アニメ 「蒼穹のファフナー」× 尾道 20周年コラボ
-</p>
+<p align="center">アニメ 「蒼穹のファフナー」× 尾道 20周年コラボ </p>
+<p align="center">+</p> 
+<p align="center"> MODEROID ファフナー・マーク アレス</p>
 
 <h2 align="center">さめまる 🦈</h2>
 <p align="center">
-  高専生 / 18歳 / Neovim / Ubuntu(WSL) / Windows大好き
+  高専生 / 18歳 / Neovim / Ubuntu(WSL) / ガンプラ・アニメ大好き
 </p>
 
 ---
