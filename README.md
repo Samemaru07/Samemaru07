@@ -23,12 +23,10 @@
   <td align="left">
     <h3>Currently Learning</h3>
     <p>
-      <strong>Lua</strong> / Neovim custom<br>
+      <strong>Lua</strong> / Arch custom<br>
       <strong>Git</strong> / Workflow<br>
-      <strong>Docker</strong><br>
-      <strong>Golang</strong><br>
-      <strong>AWS</strong><br>
-      <strong>Flutter</strong>
+      <strong>Linux</strong>
+      <strong>LinuC Level1(101)</strong>
     </p>
   </td>
 
