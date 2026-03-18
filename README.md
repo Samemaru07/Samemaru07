@@ -5,7 +5,7 @@
 
 <!-- 💬 自己紹介 -->
 <p align="center">
-  高専生 / 18歳 / Neovim & Ubuntu(WSL) / プラモ・アニメ好き
+  高専生 / 18歳 / Neovim & Arch Linux / プラモ・アニメ好き
 </p>
 
 ---
