@@ -39,4 +39,6 @@
 </tr>
 </table>
 
+<div align="center">
 <a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=G%20U%20N%20D%20A%20M%20!"></a>
+</div>
