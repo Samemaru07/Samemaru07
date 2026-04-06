@@ -33,8 +33,8 @@
   <!-- GitHub Stats -->
   <td align="center">
     <h3>GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=Samemaru07&show_icons=true&theme=transparent&hide_title=true" height="160" /><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samemaru07&layout=compact&theme=transparent" height="160" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Samemaru07&show_icons=true&theme=transparent&hide_title=true&count_private=true" height="160" /><br>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Samemaru07&layout=compact&theme=transparent" height="160" />
   </td>
 </tr>
 </table>
