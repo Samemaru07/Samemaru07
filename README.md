@@ -16,7 +16,7 @@
       <h4>🛠️ Skills & Tools</h4>
       <img src="https://skillicons.dev/icons?i=c,cpp,py,pytorch,lua&perline=5&theme=light" /><br>
       <img src="https://skillicons.dev/icons?i=html,css,scss,tailwindcss,js,ts,react,nextjs,vite,php,laravel,mysql,postgres&perline=7&theme=light" /><br>
-      <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,git,neovim&perline=5&theme=light" />
+      <img src="https://skillicons.dev/icons?i=windows,linux,arch,ubuntu,git,neovim,bash&perline=8&theme=light" />
       <h4>🚀 Currently Learning</h4>
       <ul>
         <li><strong>LinuC Level 1 (101)</strong></li>
