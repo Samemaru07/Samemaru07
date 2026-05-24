@@ -4,8 +4,8 @@
 
 <p align="center">
   <strong>18yo / Arch Linux & Neovim / Gunpla & Anime Lover</strong><br>
-  現在、インフラエンジニアを目指して <strong>LinuC Level 1 (101)</strong> を攻略中。
-  目指せ Basic SecCap8
+  現在、インフラエンジニアを目指して <strong>LinuC Level 1 (102)</strong> を攻略中。<br>
+  目指せ Basic SecCap8 / ハッカソンにも出場予定
 </p>
 
 ---
@@ -19,8 +19,8 @@
       <img src="https://skillicons.dev/icons?i=windows,linux,arch,ubuntu,git,neovim,bash&perline=8&theme=light" />
       <h4>🚀 Currently Learning</h4>
       <ul>
-        <li><strong>LinuC Level 1 (101)</strong></li>
-        <li><strong>Docker / AWS Infrastructure</strong></li>
+        <li><strong>LinuC Level 1 (102)</strong></li>
+        <li><strong>Docker / Go Lang</strong></li>
         <li><strong>Arch Linux Customization</strong></li>
       </ul>
     </td>
