@@ -5,7 +5,7 @@
 <p align="center">
   <strong>18yo / Arch Linux & Neovim / Gunpla & Anime Lover</strong><br>
   現在、インフラエンジニアを目指して <strong>LinuC Level 1 (102)</strong> を攻略中。<br>
-  目指せ Basic SecCap8 / ハッカソンにも出場予定
+  目指せ Basic SecCap8
 </p>
 
 ---
